@@ -1,0 +1,10 @@
+{
+  "realm": "CISSA",
+  "auth-server-url": "http://192.168.0.64:8180/auth",
+  "ssl-required": "none",
+  "resource": "cissa",
+  "public-client": true,
+  "verify-token-audience": true,
+  "use-resource-role-mappings": true,
+  "confidential-port": 0
+}
